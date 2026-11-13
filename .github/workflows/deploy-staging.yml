@@ -12,7 +12,6 @@ env:
   DOCKER_IMAGE_NAME: vjgferreira-azure-ttt
   AZURE_WEBAPP_NAME: vjgferreira-ttt-app
   ###############################################
-  ### Change ###
 
 jobs:
   build:
